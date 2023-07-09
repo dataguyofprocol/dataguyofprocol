@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dataguyofprocol
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning data-engineering basics and MLOPs
+- 💞️ I’m looking to collaborate on open-source ML/AI Projects
+- 📫 How to reach me parth.batra@procol.in
